@@ -9,8 +9,8 @@
             "email": "263068280@qq.com"
         }
     ],
-    "autolaod":{
-	"psr-4":{"CurlFuture\\":"src"}
+    "autoload":{
+	"psr-4":{"CurlFuture\\":"src/"}
     },
     "require": {}
 }
