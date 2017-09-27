@@ -1,5 +1,6 @@
 <?php
 namespace CurlFuture;
+
 /**
  * Task类，封装每个curl handle的输入输出方法，如果需要日志、异常处理，可以放在这个地方
  * @author fang

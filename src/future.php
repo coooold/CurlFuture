@@ -1,5 +1,6 @@
 <?php
 namespace CurlFuture;
+
 /**
  * Future类，提供延迟执行的基础方法
  * @author fang
